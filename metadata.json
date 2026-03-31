@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Easy Byz Creator - Contract Manager",
+  "description": "A professional contract management and e-signature platform featuring administrative dashboards, automated link generation, and secure client signing portals with geolocation tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
